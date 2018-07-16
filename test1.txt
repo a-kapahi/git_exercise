@@ -1,1 +1,2 @@
 Hello world for master
+Hello world for feature1
